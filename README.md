@@ -16,6 +16,12 @@ Default editor is vim (this can be changed)
 - Type commit message
 - `Escape` -> `:wq` -> `Enter` to write message and quit Or use `git commit -m "<message>"`
 
+<<<<<<< HEAD
 - First line should be clear, accurate and concise
 - Use proper spelling, grammar and punctuation
 - Don't end with `.`
+=======
+## Merging
+
+Merging means to bring the changes from one branch to another.
+>>>>>>> merge-demo
