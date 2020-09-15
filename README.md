@@ -15,3 +15,7 @@ Default editor is vim (this can be changed)
 - `i` to enter *insert* mode
 - Type commit message
 - `Escape` -> `:wq` -> `Enter` to write message and quit Or use `git commit -m "<message>"`
+
+- First line should be clear, accurate and concise
+- Use proper spelling, grammar and punctuation
+- Don't end with `.`
