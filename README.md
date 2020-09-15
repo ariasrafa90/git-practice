@@ -15,3 +15,7 @@ Default editor is vim (this can be changed)
 - `i` to enter *insert* mode
 - Type commit message
 - `Escape` -> `:wq` -> `Enter` to write message and quit Or use `git commit -m "<message>"`
+
+## Merging
+
+Merging means to bring the changes from one branch to another.
