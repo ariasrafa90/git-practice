@@ -6,6 +6,9 @@
 - git commit: Commit changes from staging area to current branch
 - git config: Set or get configuration
 - git log: Show history (aka "log") of project commits
+- git stash: Stash changes from working directory
+- git stash list: List stashes
+- git stash pop: Apply stashed changed to working directory
 - git checkout: Check out the branch (update HEAD and apply changes to working directory)
 - git branch -c: Create a branch
 - git checkout -b: Create a branch, then check it out.
@@ -16,6 +19,7 @@
 - git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for a branch.
 - git fetch: Fetch changes from remote repository
 - git pull: Fetch, and then merge
+
 
 ## Commit messages
 
